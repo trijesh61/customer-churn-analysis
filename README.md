@@ -10,7 +10,7 @@ This project is a comprehensive **Exploratory Data Analysis (EDA)** of customer 
   - Univariate and Bivariate Analysis
   - Customer behavior patterns
   - Churn trends based on demographics and services
-
+ 
 ---
 
 ## 📁 Files Included
